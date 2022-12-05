@@ -1,0 +1,28 @@
+{
+  "UserInfo": [
+    {
+      "UerId":"0",
+      "FirstName":"MastiZone",
+      "Location":"Jaipur"
+    
+    },
+    {
+      "UerId":"1",
+      "FirstName":"MastiZone",
+      "Location":"Jodhpur"
+    
+    },
+    {
+      "UerId":"2",
+      "FirstName":"MastiZone",
+      "Location":"pune"
+    
+    },
+    {
+      "UerId":"3",
+      "FirstName":"MastiZone",
+      "Location":"kota"
+    
+    }
+  ]
+}
